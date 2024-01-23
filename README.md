@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @girmachew82
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ALX software engineering
 - 💞️ I’m looking to collaborate on anyone
 - 📫 reach me girmachewabebe@gmial.com
 - 👏 Thank you visiting my profile
